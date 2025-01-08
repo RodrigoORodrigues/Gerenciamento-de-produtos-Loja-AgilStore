@@ -1,4 +1,4 @@
-# Gerenciamento-de-produtos-Loja-AgilStore
+# Gerenciamento de produtos Loja AgilStore
 Gerenciamento de produtos para a Loja AgilStore (Inventário).
 
 # Sistema de Inventário em Python
