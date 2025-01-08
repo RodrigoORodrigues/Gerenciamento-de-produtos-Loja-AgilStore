@@ -1,0 +1,24 @@
+[
+    {
+        "id": "7e292",
+        "nome": "Carregador",
+        "categoria": "Eletr\u00f4nico",
+        "quantidade": 45,
+        "preco": 25.0
+    },
+    {
+        "id": "6df79",
+        "nome": "Fones de ouvido",
+        "categoria": "Eletr\u00f4nico",
+        "quantidade": 35,
+        "preco": 40.0
+    },
+    {
+        "id": "8jk56",
+        "nome": "Cabos",
+        "categoria": "Eletr\u00f4nico",
+        "quantidade": 45,
+        "preco": 25.0
+    }
+
+]
